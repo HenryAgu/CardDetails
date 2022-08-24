@@ -29,13 +29,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![card1](https://user-images.githubusercontent.com/74037448/186526181-e5948b57-d403-4c44-a288-33ef25d14aa9.JPG)
+![card2](https://user-images.githubusercontent.com/74037448/186526197-244c95f9-4f93-403a-b48d-8a653845b6d6.JPG)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/HenryAgu/CardDetails.git)
+- Live Site URL: (https://cardetail.netlify.app/)
 
 ### Built with
 
